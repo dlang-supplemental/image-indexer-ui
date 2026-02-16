@@ -1,0 +1,13 @@
+{
+	"name": "image-indexer-ui",
+	"authors": [
+		"Antigravity"
+	],
+	"description": "DlangUI frontend for image indexer.",
+	"copyright": "Copyright © 2026, Antigravity",
+	"license": "MIT",
+	"dependencies": {
+		"dlangui": "~>0.10.8",
+		"image-indexer-core": { "path": "../image-indexer-core" }
+	}
+}

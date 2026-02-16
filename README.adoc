@@ -1,0 +1,16 @@
+= Image Indexer UI
+
+== Summary
+Frontend UI for the Image Indexer application, built with DlangUI.
+
+== Features
+- Select folder to index.
+- Search images by text (multimodal CLIP search).
+- Display grid of results.
+
+== Architecture
+- **Framework**: DlangUI.
+- **Backend**: Uses `image-indexer-core`.
+
+== Usage
+`dub run`
