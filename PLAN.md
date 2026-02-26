@@ -15,3 +15,13 @@ DlangUI frontend for the Image Indexer.
 === Future
 - **Virtualization**: Handle checking 10k+ images without UI lag.
 - **Settings**: Configure model paths and hardware acceleration (CPU/CUDA/ROCm).
+- **HuggingFace & ModelScope Integration**: 
+    - Add a "Model Store" tab to browse and download models (GGUF/ONNX).
+    - Use their APIs to search for 'vision' or 'clip' models.
+
+=== Design Aesthetics
+- **Theme**: Dark mode by default with high contrast and modern typography (e.g. Inter/Roboto via DlangUI fonts).
+- **Interactions**: Smooth hover effects on buttons and thumbnails.
+- **Micro-animations**: Loading spinners, smooth transitions between search and results.
+
+
