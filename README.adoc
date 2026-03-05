@@ -44,8 +44,8 @@ dub run
 == 📖 Reference: Technical Details
 
 *   **Frontend Framework**: link:https://github.com/buggins/dlangui[DlangUI]
-*   **Search Engine**: `image-indexer-core`
-*   **Vector Backend**: `vector-search-dlang`
+*   **Search Engine**: `vibe-search-core`
+*   **Vector Backend**: `vector-store-dlang`
 *   **Inference Engine**: `densor`
 
 == ⚖️ License
